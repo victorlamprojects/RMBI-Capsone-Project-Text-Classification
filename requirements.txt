@@ -1,0 +1,13 @@
+pandas
+selenium
+webdriver_manager
+bs4
+spacy
+spacy_langdetect
+nltk
+numpy
+sklearn
+keras
+tensorflow
+matplotlib
+bayesian-optimization
